@@ -1,0 +1,63 @@
+input /pet "Flaming Crush" <t>
+input /echo FC 01 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 02 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 03 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 04 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 05 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 06 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 07 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 08 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 09 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 10 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 11 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 12 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 13 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 14 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 15 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 16 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 17 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC 18 <t>
+pause 1.6;
+input /ja "Apogee" <me>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC Apogee 19 <t>
+pause 1.6;
+input /pet "Flaming Crush" <t>
+input /echo FC Apogee 20 <t>
+pause 1.6;
+input /ja "Apogee" <me>

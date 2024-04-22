@@ -1,0 +1,63 @@
+input /pet "Hysteric Assault" <t>
+input /echo HA 01 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 02 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 03 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 04 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 05 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 06 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 07 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 08 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 09 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 10 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 11 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 12 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 13 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 14 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 15 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 16 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 17 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo HA 18 <t>
+pause 1.6;
+input /ja "Apogee" <me>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo Apogee HA 19 <t>
+pause 1.6;
+input /pet "Hysteric Assault" <t>
+input /echo Apogee HA 20 <t>
+pause 1.6;
+input /ja "Apogee" <me>

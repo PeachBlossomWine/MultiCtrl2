@@ -1,0 +1,63 @@
+input /pet "Volt Strike" <t>
+input /echo VS 01 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 02 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 03 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 04 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 05 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 06 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 07 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 08 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 09 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 10 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 11 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 12 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 13 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 14 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 15 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 16 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 17 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo VS 18 <t>
+pause 1.6;
+input /ja "Apogee" <me>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo Apogee VS 19 <t>
+pause 1.6;
+input /pet "Volt Strike" <t>
+input /echo Apogee VS 20 <t>
+pause 1.6;
+input /ja "Apogee" <me>
